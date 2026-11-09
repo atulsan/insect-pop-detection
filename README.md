@@ -19,11 +19,7 @@ models/             the five trained models + their training configs
 
 > ### ⚠️ The synthetic tray **images** are not in this repository
 >
-> The corpus is **72 GB**. It lives on Ares storage at
->
-> ```
-> students/ma_atul_dind/data/MA_Atul_Ares/insect_dataset_coco_20000_mix/
-> ```
+> The corpus is **72 GB** approx after generation.
 >
 > What **is** here is the complete annotation record for that corpus
 > (`datasets/synthetic/`) — every image entry, every box, every class, for all
